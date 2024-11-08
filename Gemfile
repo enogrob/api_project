@@ -50,3 +50,5 @@ end
 gem "rspec-rails", "~> 5.0.0"
 
 gem "sidekiq", "~> 7.3"
+
+gem "factory_bot_rails", "~> 6.4", :groups => [:development, :test]
