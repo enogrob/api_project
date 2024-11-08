@@ -48,3 +48,5 @@ end
 
 
 gem "rspec-rails", "~> 5.0.0"
+
+gem "sidekiq", "~> 7.3"
